@@ -1,0 +1,104 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Du store all verden",
+    "description": "Siste innhold på Du store all verden",
+    "home_page_url" : "http://dustoreallverden.byeskille.net/",
+    "feed_url" : "http://dustoreallverden.byeskille.net/index.json",
+    "icon" : "http://dustoreallverden.byeskille.net/apple-touch-icon.png",
+    "favicon" : "http://dustoreallverden.byeskille.net/apple-touch-icon.png",
+    "author" : {
+        "name" : "Kjetil Kjær Andersland & Daniel Drageset",
+        "url": "http://dustoreallverden.byeskille.net/om",
+        "avatar": "http://dustoreallverden.byeskille.net/images/kjetil_og_daniel.jpg"
+    },
+    "items" : [
+    {
+        "title" : "Kontakt",
+        "date_published" : "2020-06-06T00:00:00Z",
+        "date_modified" : "2020-06-06T00:00:00Z",
+        "id" : "http://dustoreallverden.byeskille.net/kontakt/",
+        "url" : "http://dustoreallverden.byeskille.net/kontakt/",
+        "content_html" : "\u003cdiv id=\"fb-root\"\u003e\u003c/div\u003e\n\u003cscript async defer crossorigin=\"anonymous\" src=\"https://connect.facebook.net/nb_NO/sdk.js#xfbml=1\u0026version=v7.0\"\u003e\u003c/script\u003e\n\u003cp class=\"error message js-hidden\"\u003eDu må ha skrudd på Javascript for å bruke denne funksjonen.\u003c/p\u003e\n\u003cp class=\"contact-submitted status message hidden\"\u003eDin melding har blitt sendt.\u003c/p\u003e\n\u003cp class=\"contact-error error message hidden\"\u003eEn feil oppstod da meldingen skulle sendes.\u003c/p\u003e\n\n\u003cform class=\"contact-form hidden\" action=\"#\" method=\"post\" accept-charset=\"UTF-8\"\u003e\n  \u003clabel for=\"edit-name\"\u003eNavn\u003c/label\u003e\n  \u003cinput type=\"text\" id=\"edit-name\" name=\"name\" placeholder=\"Ditt navn\" tabindex=\"1\" required autofocus\u003e\u003cspan\u003e\u003c/span\u003e\n  \u003clabel for=\"edit-mail\"\u003eE-postadresse\u003c/label\u003e\n  \u003cinput type=\"email\" id=\"edit-mail\" name=\"email\" placeholder=\"Din e-postadresse\" tabindex=\"2\" required\u003e\u003cspan\u003e\u003c/span\u003e\n  \u003cinput type=\"text\" id=\"edit-url\" class=\"hidden\" name=\"url\" placeholder=\"Hopp over om du er menneske.\"\u003e\n  \u003clabel for=\"edit-subject\"\u003eEmne\u003c/label\u003e\n  \u003cinput type=\"text\" id=\"edit-subject\" name=\"subject\" placeholder=\"En kort emnetekst\" tabindex=\"3\" required\u003e\u003cspan\u003e\u003c/span\u003e\n  \u003clabel for=\"edit-message\"\u003eMelding\u003c/label\u003e\n  \u003ctextarea id=\"edit-message\" name=\"message\" rows=\"5\" placeholder=\"Skriv inn meldingen din her…\" tabindex=\"4\" required\u003e\u003c/textarea\u003e\u003cspan\u003e\u003c/span\u003e\n  \u003cbutton type=\"submit\" name=\"submit\" class=\"form-submit\" disabled\u003eSend meldingen\u003c/button\u003e\n\u003c/form\u003e\n\n\u003cp\u003eVi tar gjerne imot ris og ros.\u003c/p\u003e\n\u003cp\u003eEller for den del gode tips om både interessante, morsomme eller skikkelig kuriøse historier som inneholder et spor av geografi eller sport – eller gjerne begge deler.\u003c/p\u003e\n\u003cp\u003eTa da kontakt på e-post: \u003ca href=\"mailto:adresse@server.com\"\u003e\u003cstrong\u003e\u003ca href=\"mailto:adresse@server.com\"\u003eadresse@server.com\u003c/a\u003e\u003c/strong\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eEllers kan du gjerne følge oss på Facebook – der deler vi hver gang vi har en ny episode og også litt bonusmateriale innimellom:\u003c/p\u003e\n\u003cdiv class=\"fb-page\" data-href=\"https://www.facebook.com/dustoreallverden\" data-tabs=\"\" data-width=\"400\" data-height=\"\" data-small-header=\"false\" data-adapt-container-width=\"true\" data-hide-cover=\"false\" data-show-facepile=\"false\"\u003e\u003cblockquote cite=\"https://www.facebook.com/dustoreallverden\" class=\"fb-xfbml-parse-ignore\"\u003e\u003ca href=\"https://www.facebook.com/dustoreallverden\"\u003eDu store all verden\u003c/a\u003e\u003c/blockquote\u003e\u003c/div\u003e\n"
+    },
+    {
+        "title" : "Om",
+        "date_published" : "2020-06-06T00:00:00Z",
+        "date_modified" : "2020-06-06T00:00:00Z",
+        "id" : "http://dustoreallverden.byeskille.net/om/",
+        "url" : "http://dustoreallverden.byeskille.net/om/",
+        "content_html" : "\u003cp\u003eHør om dagen som aldri eksisterte, verdens minste hovedstad, og landet som gikk fra å være rike og feite til å bli fattige - og ja, feite.\u003c/p\u003e\n\u003cp\u003e«Du store all verden» er en podkast med artige historier fra hele verden. Hovedtyngde på geografi og sport.\u003c/p\u003e\n\u003cp\u003ePodkasten lages av Kjetil Kjær Andersland og Daniel Drageset.\u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"/images/kjetil_og_daniel.jpg\" alt=\"Kjetil Kjær Andersland og Daniel Drageset (gammelt bilde)\"\u003e\u003c/p\u003e\n"
+    },
+    {
+        "title" : "#9 Historien om Tour de Trump",
+        "date_published" : "2016-06-19T00:00:00Z",
+        "date_modified" : "2016-06-19T00:00:00Z",
+        "id" : "http://dustoreallverden.byeskille.net/podcast/e9-trump/",
+        "url" : "http://dustoreallverden.byeskille.net/podcast/e9-trump/",
+        "content_html" : "\u003cp\u003eVi kunne ikke dy oss. Vi måtte bare snakke litt om Donald Trump. Men hva har han med Dag Otto Lauritzen, 80-talls synth og et nederlandsk bordell å gjøre?\u003c/p\u003e\n\u003cp\u003eHør om Donald Trump og hans ville sportseventyr og om og med den tsjekiske nasjonalsangen.\u003c/p\u003e"
+    },
+    {
+        "title" : "#8 Querini",
+        "date_published" : "2016-05-12T00:00:00Z",
+        "date_modified" : "2016-05-12T00:00:00Z",
+        "id" : "http://dustoreallverden.byeskille.net/podcast/e8-querini/",
+        "url" : "http://dustoreallverden.byeskille.net/podcast/e8-querini/",
+        "content_html" : "\u003cp\u003eVi forteller historien om en italiensk adelsmann som plutselig dukket opp ytterst i havgapet i Lofoten tidlig på 1400-tallet, i norsk senmiddelalder. Daniel river såklart også av en nasjonalsang. Håper det smaker!\u003c/p\u003e\n\u003cfigure class=\"image right\"\u003e\n\u003cimg src=\"querini.jpg\" \u003e\n\u003c/figure\u003e\n\n\u003cp\u003eDette er (angivelig) Pietro Querini. Han er litt av en helt nordpå, men mindre kjent for oss her sør. Dessuten har han en helt utrolig livshistorie.\u003c/p\u003e\n\u003cp\u003eI 1432 dukket han opp på den isolerte øyen Røst ytterst i Lofoten. I denne episoden av Du store all verden hører du hvordan han havnet her.\u003c/p\u003e"
+    },
+    {
+        "title" : "#7 Grise Fjord",
+        "date_published" : "2016-01-15T00:00:00Z",
+        "date_modified" : "2016-01-15T00:00:00Z",
+        "id" : "http://dustoreallverden.byeskille.net/podcast/e7-grise-fjord/",
+        "url" : "http://dustoreallverden.byeskille.net/podcast/e7-grise-fjord/",
+        "content_html" : "\u003cp\u003eVi reiser til verdens mest isolerte sted, Grise Fjord, Du gjetter aldri hvilket land det stedet ligger i. Og selvfølgelig blir det en passende nasjonalsang.\u003c/p\u003e\n\u003cp\u003eEt av verdens kaldeste steder med permanent bosetning heter Grise Fiord og ligger langt nord i Canada.\u003c/p\u003e\n\u003cp\u003eHvordan har dette isolerte og ugjestmilde stedet blitt hetende Grise Fiord?\u003c/p\u003e\n\u003cp\u003eOg finnes det griser på et slikt sted?\u003c/p\u003e\n\u003cp\u003eMer i denne episoden av Du store all verden.\u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"grise_fiord.jpg\" alt=\"Grise Fiord\"\u003e\u003c/p\u003e"
+    },
+    {
+        "title" : "#6 Marseillaisen",
+        "date_published" : "2015-11-25T00:00:00Z",
+        "date_modified" : "2015-11-25T00:00:00Z",
+        "id" : "http://dustoreallverden.byeskille.net/podcast/e6-marseillaisen/",
+        "url" : "http://dustoreallverden.byeskille.net/podcast/e6-marseillaisen/",
+        "content_html" : "\u003cp\u003eEn spesialutgave av podkasten Du store all verden, i forbindelse med terrorangrepene i Paris. Vi tar for oss Marseillaisen som ble et viktig symbol for nasjonalt samhold etter grusomhetene.\u003c/p\u003e\n\u003cp\u003eI respekt har vi tatt bort alt av jingler i denne episoden.\u003c/p\u003e"
+    },
+    {
+        "title" : "#5 Enklaver og eksklaver!",
+        "date_published" : "2015-11-10T00:00:00Z",
+        "date_modified" : "2015-11-10T00:00:00Z",
+        "id" : "http://dustoreallverden.byeskille.net/podcast/e5-enklaver_og_eksklaver/",
+        "url" : "http://dustoreallverden.byeskille.net/podcast/e5-enklaver_og_eksklaver/",
+        "content_html" : "\u003cp\u003eEndelig en ny episode av nerdecasten. Vi går over til munnfuller med kun ett tema i hver episode. Denne gang: enklaver, eksklaver og alle tilhørende herligheter. Og selvfølgelig en passende nasjonalsang!\u003c/p\u003e\n\u003cp\u003eVi prøver et nytt format fremover, med små munnfuller av morsomme geografifortellinger, i stedet for lange episoder. Forhåpentligvis gjør det det litt lettere å få med seg alt vi lager. Hver podkast vil nå handle om ett tema, og vare rundt 30 minutter.\u003c/p\u003e\n\u003cp\u003eI den første biten får dere blant høre om landsbyen der landegrensene går gjennom puber og butikker.\u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"grense2.jpg\" alt=\"Grense gjennom puber og butikker\"\u003e\n\u003cimg src=\"grense1.jpg\" alt=\"Grense gjennom puber og butikker\"\u003e\u003c/p\u003e"
+    },
+    {
+        "title" : "#4 Ismailittene",
+        "date_published" : "2015-05-20T00:00:00Z",
+        "date_modified" : "2015-05-20T00:00:00Z",
+        "id" : "http://dustoreallverden.byeskille.net/podcast/e4-ismailittene/",
+        "url" : "http://dustoreallverden.byeskille.net/podcast/e4-ismailittene/",
+        "content_html" : "\u003cp\u003eFjerde episode av Du store all verden, altså. Inneholder blant annet en god del om den muslimsk minoriteten ismailittene.\u003c/p\u003e\n\u003cp\u003eHer får du blant annet svar på hva disse herrene har å gjøre med den øverste lederen for den muslimsk minoriteten ismailittene.\u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"ismailittene1.jpg\" alt=\"ismailittene\"\u003e\n\u003cimg src=\"ismailittene2.jpg\" alt=\"ismailittene\"\u003e\u003c/p\u003e"
+    },
+    {
+        "title" : "#3 Verdens aller minste ...",
+        "date_published" : "2015-02-13T00:00:00Z",
+        "date_modified" : "2015-02-13T00:00:00Z",
+        "id" : "http://dustoreallverden.byeskille.net/podcast/e3-verdens-aller-minste/",
+        "url" : "http://dustoreallverden.byeskille.net/podcast/e3-verdens-aller-minste/",
+        "content_html" : "\u003cp\u003eHør om verdens alle minste stat på alle måter, verdens kjedeligste sport og om sykdommer som er oppkalt etter alskens steder.\u003c/p\u003e\n\u003cp\u003eHørt om Oslo-syndromet? Hvis ikke, hør om det hos oss. Ikke nok med det, Daniel synger også en av verdens aller vakreste nasjonalsanger. God fornøyelse!\u003c/p\u003e"
+    },
+    {
+        "title" : "#2 Julespesial",
+        "date_published" : "2014-12-23T00:00:00Z",
+        "date_modified" : "2014-12-23T00:00:00Z",
+        "id" : "http://dustoreallverden.byeskille.net/podcast/e2-julespesial/",
+        "url" : "http://dustoreallverden.byeskille.net/podcast/e2-julespesial/",
+        "content_html" : "\u003cp\u003eAndre episode av podkasten Du store all verden, som gir deg kuriøse historier om geografi og sport.\u003c/p\u003e\n\u003cp\u003eDenne episoden er en julespesial, der blant annet får høre om Christmas Island - som slett ikke er noen øy, julenissen fra Midt-Østen, idrettslekene som er reservert én etnisitet og hele to nasjonalsanger.\u003c/p\u003e\n\u003cp\u003eNå har du vel snart juleferie? Hva passer da bedre enn å ta litt tid til å høre vår feiende flotte julesending?\u003c/p\u003e\n\u003cp\u003eI episoden snakker vi om hva et korallatoll er, en meget spesiell geografisk formasjon, som man finner mye av i Stillehavet.\u003c/p\u003e\n\u003cp\u003eHer ser du noen stillehavskorallatoller i henholdsvis Mikronesiaføderasjonen og Fransk Polynesia:\u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"atoll1.jpg\" alt=\"stillehavskorallatoller\"\u003e\u003c/p\u003e\n\u003cp\u003eVi kan også by på speisallagde julejingler, historien om Juleøya, opptil flere julerelaterte nasjonalsanger, julenissens overraskende opprinnelse, OG idrettslekende fra det hellige land. God jul!\u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"atoll2.jpg\" alt=\"stillehavskorallatoller\"\u003e\n\u003cimg src=\"atoll3.jpg\" alt=\"stillehavskorallatoller\"\u003e\u003c/p\u003e"
+    },
+    {
+        "title" : "#1 Første episode",
+        "date_published" : "2014-11-19T00:00:00Z",
+        "date_modified" : "2014-11-19T00:00:00Z",
+        "id" : "http://dustoreallverden.byeskille.net/podcast/e1-forste-episode/",
+        "url" : "http://dustoreallverden.byeskille.net/podcast/e1-forste-episode/",
+        "content_html" : "\u003cp\u003ePremiere av den nye podkasten \u0026lsquo;Du store all verden\u0026rsquo;, med artige historier fra hele verden. Hovedtyngde på geografi og sport.\u003c/p\u003e\n\u003cp\u003eI første episode av Du Store All Verden snakker vi om idretten Outrigger Canoeing, eller utriggerkano som det kalles på norsk. Denne idretten inngår i Pacific Games, et regionalt idrettsmesterskap i Stillehavet, og er en farkost som har en lang historie i området.\u003c/p\u003e\n\u003cp\u003eØverst ser du en moderne variant av denne kanotypen fra California, mens nederst ser du en mer tradisjonell variant hvis opphav er ukjent for redaksjonen.\u003c/p\u003e\n\u003cp\u003eMan tror at slike utriggerkanoer var opphavet til moderne katamaraner, som vi jo kjenner godt fra flere steder her hjemme.\u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"moderne_roing.jpg\" alt=\"Moderne variant av kanotypen fra California\"\u003e\u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"arkiv_roing.jpg\" alt=\"Tradisjonell variant hvis opphav er ukjent for redaksjonen\"\u003e\u003c/p\u003e"
+    }
+    ]
+}
