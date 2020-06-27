@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags på Du store all verden</title>
-    <link>http://dustoreallverden.byeskille.net/tags/</link>
+    <link>https://dustoreallverden.no/tags/</link>
     <description>Siste innhold i Tags på Du store all verden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nb-no</language>
-    <atom:link href="http://dustoreallverden.byeskille.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dustoreallverden.no/tags/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

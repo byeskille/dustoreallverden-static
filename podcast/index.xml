@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Du store all verden</title>
-    <link>http://dustoreallverden.byeskille.net/podcast/</link>
+    <link>https://dustoreallverden.no/podcast/</link>
     <description>Du store all verden er en podkast med artige historier fra hele verden. Hovedtyngde på geografi og sport.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nb-NO</language>
     <lastBuildDate>Sun, 19 Jun 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://dustoreallverden.byeskille.net/podcast/index.xml" rel="self" type="application/rss+xml" />
-    <itunes:image href="http://dustoreallverden.byeskille.net/images/logo.png" />
+    <atom:link href="https://dustoreallverden.no/podcast/index.xml" rel="self" type="application/rss+xml" />
+    <itunes:image href="https://dustoreallverden.no/images/logo.png" />
     <itunes:category text="Society &amp;amp; Culture">
       <itunes:category text="Places &amp;amp; Travel" />
     </itunes:category>
@@ -26,8 +26,8 @@
     <item>
       <title>#9 Historien om Tour de Trump</title>
       <itunes:title>#9 Historien om Tour de Trump</itunes:title>
-      <link>http://dustoreallverden.byeskille.net/podcast/e9-trump/</link>
-      <guid>http://dustoreallverden.byeskille.net/podcast/e9-trump/</guid>
+      <link>https://dustoreallverden.no/podcast/e9-trump/</link>
+      <guid>https://dustoreallverden.no/podcast/e9-trump/</guid>
       <pubDate>Sun, 19 Jun 2016 00:00:00 +0000</pubDate>
       <description>&lt;p&gt;Vi kunne ikke dy oss. Vi måtte bare snakke litt om Donald Trump. Men hva har han med Dag Otto Lauritzen, 80-talls synth og et nederlandsk bordell å gjøre?&lt;/p&gt;
 &lt;p&gt;Hør om Donald Trump og hans ville sportseventyr og om og med den tsjekiske nasjonalsangen.&lt;/p&gt;</description>
@@ -44,8 +44,8 @@
     <item>
       <title>#8 Querini</title>
       <itunes:title>#8 Querini</itunes:title>
-      <link>http://dustoreallverden.byeskille.net/podcast/e8-querini/</link>
-      <guid>http://dustoreallverden.byeskille.net/podcast/e8-querini/</guid>
+      <link>https://dustoreallverden.no/podcast/e8-querini/</link>
+      <guid>https://dustoreallverden.no/podcast/e8-querini/</guid>
       <pubDate>Thu, 12 May 2016 00:00:00 +0000</pubDate>
       <description>&lt;p&gt;Vi forteller historien om en italiensk adelsmann som plutselig dukket opp ytterst i havgapet i Lofoten tidlig på 1400-tallet, i norsk senmiddelalder. Daniel river såklart også av en nasjonalsang. Håper det smaker!&lt;/p&gt;
 &lt;figure class=&#34;image right&#34;&gt;
@@ -67,8 +67,8 @@
     <item>
       <title>#7 Grise Fjord</title>
       <itunes:title>#7 Grise Fjord</itunes:title>
-      <link>http://dustoreallverden.byeskille.net/podcast/e7-grise-fjord/</link>
-      <guid>http://dustoreallverden.byeskille.net/podcast/e7-grise-fjord/</guid>
+      <link>https://dustoreallverden.no/podcast/e7-grise-fjord/</link>
+      <guid>https://dustoreallverden.no/podcast/e7-grise-fjord/</guid>
       <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
       <description>&lt;p&gt;Vi reiser til verdens mest isolerte sted, Grise Fjord, Du gjetter aldri hvilket land det stedet ligger i. Og selvfølgelig blir det en passende nasjonalsang.&lt;/p&gt;
 &lt;p&gt;Et av verdens kaldeste steder med permanent bosetning heter Grise Fiord og ligger langt nord i Canada.&lt;/p&gt;
@@ -89,8 +89,8 @@
     <item>
       <title>#6 Marseillaisen</title>
       <itunes:title>#6 Marseillaisen</itunes:title>
-      <link>http://dustoreallverden.byeskille.net/podcast/e6-marseillaisen/</link>
-      <guid>http://dustoreallverden.byeskille.net/podcast/e6-marseillaisen/</guid>
+      <link>https://dustoreallverden.no/podcast/e6-marseillaisen/</link>
+      <guid>https://dustoreallverden.no/podcast/e6-marseillaisen/</guid>
       <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
       <description>&lt;p&gt;En spesialutgave av podkasten Du store all verden, i forbindelse med terrorangrepene i Paris. Vi tar for oss Marseillaisen som ble et viktig symbol for nasjonalt samhold etter grusomhetene.&lt;/p&gt;
 &lt;p&gt;I respekt har vi tatt bort alt av jingler i denne episoden.&lt;/p&gt;</description>
@@ -107,8 +107,8 @@
     <item>
       <title>#5 Enklaver og eksklaver!</title>
       <itunes:title>#5 Enklaver og eksklaver!</itunes:title>
-      <link>http://dustoreallverden.byeskille.net/podcast/e5-enklaver_og_eksklaver/</link>
-      <guid>http://dustoreallverden.byeskille.net/podcast/e5-enklaver_og_eksklaver/</guid>
+      <link>https://dustoreallverden.no/podcast/e5-enklaver_og_eksklaver/</link>
+      <guid>https://dustoreallverden.no/podcast/e5-enklaver_og_eksklaver/</guid>
       <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
       <description>&lt;p&gt;Endelig en ny episode av nerdecasten. Vi går over til munnfuller med kun ett tema i hver episode. Denne gang: enklaver, eksklaver og alle tilhørende herligheter. Og selvfølgelig en passende nasjonalsang!&lt;/p&gt;
 &lt;p&gt;Vi prøver et nytt format fremover, med små munnfuller av morsomme geografifortellinger, i stedet for lange episoder. Forhåpentligvis gjør det det litt lettere å få med seg alt vi lager. Hver podkast vil nå handle om ett tema, og vare rundt 30 minutter.&lt;/p&gt;
@@ -128,8 +128,8 @@
     <item>
       <title>#4 Ismailittene</title>
       <itunes:title>#4 Ismailittene</itunes:title>
-      <link>http://dustoreallverden.byeskille.net/podcast/e4-ismailittene/</link>
-      <guid>http://dustoreallverden.byeskille.net/podcast/e4-ismailittene/</guid>
+      <link>https://dustoreallverden.no/podcast/e4-ismailittene/</link>
+      <guid>https://dustoreallverden.no/podcast/e4-ismailittene/</guid>
       <pubDate>Wed, 20 May 2015 00:00:00 +0000</pubDate>
       <description>&lt;p&gt;Fjerde episode av Du store all verden, altså. Inneholder blant annet en god del om den muslimsk minoriteten ismailittene.&lt;/p&gt;
 &lt;p&gt;Her får du blant annet svar på hva disse herrene har å gjøre med den øverste lederen for den muslimsk minoriteten ismailittene.&lt;/p&gt;
@@ -148,8 +148,8 @@
     <item>
       <title>#3 Verdens aller minste ...</title>
       <itunes:title>#3 Verdens aller minste ...</itunes:title>
-      <link>http://dustoreallverden.byeskille.net/podcast/e3-verdens-aller-minste/</link>
-      <guid>http://dustoreallverden.byeskille.net/podcast/e3-verdens-aller-minste/</guid>
+      <link>https://dustoreallverden.no/podcast/e3-verdens-aller-minste/</link>
+      <guid>https://dustoreallverden.no/podcast/e3-verdens-aller-minste/</guid>
       <pubDate>Fri, 13 Feb 2015 00:00:00 +0000</pubDate>
       <description>&lt;p&gt;Hør om verdens alle minste stat på alle måter, verdens kjedeligste sport og om sykdommer som er oppkalt etter alskens steder.&lt;/p&gt;
 &lt;p&gt;Hørt om Oslo-syndromet? Hvis ikke, hør om det hos oss. Ikke nok med det, Daniel synger også en av verdens aller vakreste nasjonalsanger. God fornøyelse!&lt;/p&gt;</description>
@@ -166,8 +166,8 @@
     <item>
       <title>#2 Julespesial</title>
       <itunes:title>#2 Julespesial</itunes:title>
-      <link>http://dustoreallverden.byeskille.net/podcast/e2-julespesial/</link>
-      <guid>http://dustoreallverden.byeskille.net/podcast/e2-julespesial/</guid>
+      <link>https://dustoreallverden.no/podcast/e2-julespesial/</link>
+      <guid>https://dustoreallverden.no/podcast/e2-julespesial/</guid>
       <pubDate>Tue, 23 Dec 2014 00:00:00 +0000</pubDate>
       <description>&lt;p&gt;Andre episode av podkasten Du store all verden, som gir deg kuriøse historier om geografi og sport.&lt;/p&gt;
 &lt;p&gt;Denne episoden er en julespesial, der blant annet får høre om Christmas Island - som slett ikke er noen øy, julenissen fra Midt-Østen, idrettslekene som er reservert én etnisitet og hele to nasjonalsanger.&lt;/p&gt;
@@ -191,8 +191,8 @@
     <item>
       <title>#1 Første episode</title>
       <itunes:title>#1 Første episode</itunes:title>
-      <link>http://dustoreallverden.byeskille.net/podcast/e1-forste-episode/</link>
-      <guid>http://dustoreallverden.byeskille.net/podcast/e1-forste-episode/</guid>
+      <link>https://dustoreallverden.no/podcast/e1-forste-episode/</link>
+      <guid>https://dustoreallverden.no/podcast/e1-forste-episode/</guid>
       <pubDate>Wed, 19 Nov 2014 00:00:00 +0000</pubDate>
       <description>&lt;p&gt;Premiere av den nye podkasten &amp;lsquo;Du store all verden&amp;rsquo;, med artige historier fra hele verden. Hovedtyngde på geografi og sport.&lt;/p&gt;
 &lt;p&gt;I første episode av Du Store All Verden snakker vi om idretten Outrigger Canoeing, eller utriggerkano som det kalles på norsk. Denne idretten inngår i Pacific Games, et regionalt idrettsmesterskap i Stillehavet, og er en farkost som har en lang historie i området.&lt;/p&gt;
